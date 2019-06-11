@@ -2,7 +2,7 @@
  * pwm-motor.c
  *
  * Created: 6/11/2019 11:10:11 AM
- * Author :Y.SPANDHANA
+ * Author : Aleti Nikitha 
  */ 
 
 #define F_CPU 16000000UL
