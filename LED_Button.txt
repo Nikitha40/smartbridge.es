@@ -2,7 +2,7 @@
  * ledbutton3.c
  *
  * Created: 6/7/2019 11:34:03 AM
- * Author:GUTTA SRUTHI
+ * Author: Aleti Nikitha 
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
