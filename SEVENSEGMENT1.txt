@@ -2,7 +2,7 @@
  * sevensegment.c
  *
  * Created: 6/10/2019 9:52:27 AM
- * Author : AKULA PRASHANTHISREE
+ * Author :Aleti Nikitha 
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
