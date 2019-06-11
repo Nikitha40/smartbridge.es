@@ -2,7 +2,7 @@
  * POTENTIOMETERMOTOR.c
  *
  * Created: 6/11/2019 11:47:25 AM
- * Author : Y.SPANDHANA
+ * Author : Aleti Nikitha 
  */ 
 
 
