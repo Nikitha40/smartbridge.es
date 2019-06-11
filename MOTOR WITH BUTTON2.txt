@@ -2,7 +2,7 @@
  * buttonmotor3.c
  *
  * Created: 6/11/2019 12:18:45 PM
- * Author :Y.SPANDHANA
+ * Author : Aleti Nikitha 
  */ 
 
 
