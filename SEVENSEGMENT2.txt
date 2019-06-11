@@ -2,7 +2,7 @@
  * seven2.c
  *
  * Created: 6/10/2019 10:34:20 AM
- * Author : AKULA PRASHANTHISREE
+ * Author : Aleti Nikitha 
  */ 
 
 #ifndef F_CPU
