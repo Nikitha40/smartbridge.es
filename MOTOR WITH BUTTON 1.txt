@@ -2,7 +2,7 @@
  * MOTOR2.c
  *
  * Created: 6/11/2019 10:31:37 AM
- * Author : Y.SPANDHANA
+ * Author : Aleti Nikitha 
  */ 
 
 #define F_CPU 16000000UL
