@@ -2,7 +2,7 @@
  * timer1.c
  *
  * Created: 6/10/2019 12:06:26 PM
- * Author : AKULA PRASHANTHISREE
+ * Author : Aleti Nikitha 
  */ 
 
 #include <avr/io.h>
