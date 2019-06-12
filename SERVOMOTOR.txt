@@ -2,7 +2,7 @@
  * SERVOMOTOR.c
  *
  * Created: 6/12/2019 10:23:38 AM
- * Author : GUTTA SRUTHI
+ * Author : Aleti Nikitha 
  */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
