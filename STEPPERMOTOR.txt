@@ -2,7 +2,7 @@
  * STEPPERMOTOR.c
  *
  * Created: 6/12/2019 10:48:39 AM
- * Author : GUTTA SRUTHI
+ * Author : Aleti Nikitha 
  */ 
 
 #define F_CPU 16000000UL
