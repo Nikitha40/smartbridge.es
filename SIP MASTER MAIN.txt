@@ -2,7 +2,7 @@
  * files.c
  *
  * Created: 6/14/2019 10:00:34 AM
- * Author : GUTTA SRUTHI
+ * Author : Aleti Nikitha 
  */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
