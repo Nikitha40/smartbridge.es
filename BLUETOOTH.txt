@@ -2,7 +2,7 @@
  * blutooth1.c
  *
  * Created: 6/13/2019 11:16:08 AM
- * Author :GUTTA SRUTHI
+ * Author :Aleti Nikitha 
  */ 
 #ifndef F_CPU 
 #define F_CPU 12000000UL
