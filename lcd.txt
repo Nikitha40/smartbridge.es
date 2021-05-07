@@ -1,0 +1,54 @@
+#include<reg51.h>
+#define ldata p1
+sbit rs=p0^o;
+sbit rw=p0^1;
+sbit en=p0^2;
+void lcdmd(unsigned char ch);
+void lcddata(unsigned char ch);
+void lcd_str(unsigned char temo[]);
+void delay(unsigned int t);
+void main()
+{
+lcdcmd(0x01);
+lcdcmd(0x38);
+lcdcmd(0x0E);
+while(1)
+{
+lcdcmd(0x80);
+lcd_str("nikitha");
+lcdcmd(0xc0);
+lcd_str("17681A0402");
+}
+}
+void lcdcmd(unsigned char ch)
+{
+ldata=ch;
+rs=0;
+rw=0;
+en=1;
+delay(1);
+en=0;
+}
+void lcddata(unsigned char ch)
+{
+ldata=ch;
+rs=1;
+rw=0;
+en=1;
+delay(1);
+en=0;
+}
+void lcd_str(unsigned char temp[])
+{
+unsigned int t;
+for(i=0;temp[i]='/0';i++);
+{
+lcddata(temp[i]);
+}
+}
+void delay(unsigned int t)
+{
+int i,j;
+for(i=0;i<t;i++)
+for(j=0;j<1275;j++);
+}
